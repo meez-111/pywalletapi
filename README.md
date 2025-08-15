@@ -133,7 +133,7 @@ You can easily deploy this project to a production environment using a platform 
 
 You can interact with a live version of this API at the following URL:
 
-[Pywalletapi live demo](https://pywalletapi.onrender.com)
+[Pywalletapi live demo](https://pywalletapi.onrender.com/api/schema/swagger-ui/)
 
 -----
 
